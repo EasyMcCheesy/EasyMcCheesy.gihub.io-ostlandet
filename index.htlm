@@ -1,0 +1,137 @@
+<h1> EasyMcCheesy </h1>
+
+
+
+<nav>
+<ul>
+<li><a href="Nettside startside.html">Hjem</a></li>
+<li><a href="nettside ostlandet.html">Ostlandet</a></li>
+<li><a href="Nettside tutorials.html">Tutorials</a></li>
+<li><a href="nettside sosialt.html">Sosialt</a></li>
+<li><a href="nettside hva skjer.html">Hva skjer fremover??</a></li>
+<li><a href="nettside shop.html">Shop (kommer snart) </a></li>
+</ul>
+</nav>
+
+
+<h2> <img src="bilde.1.png" width="1400" height="760" > </h2>
+
+
+<h3> Halla folkens og hjertelig velkommen til min kanal! Jeg er en gutt fra Østlandet som har stort interesse for YouTube!
+Jeg startet med youtube tidlig på året 2019. Å laster fremdeles opp videoer eller streamer som oftest flere ganger i uken.
+Jeg hadde satt utrolig stor pris på om du abonnerte! Å jeg håper jeg ser deg neste gang jeg er live:) </h3>
+
+
+<h5> <a href="https://www.youtube.com/channel/UCpBPwGBSdrw2sr5av3fRClw?view_as=subscriber">Link til min kanal </a> </h5>
+
+
+<h4> Nettsiden er laget av EasymcCheesy, og kan bli endret uten forvarsel. </h4>
+
+
+<head>
+<style>
+
+
+
+
+
+nav ul li {
+
+float: left;
+list-style-type: none;
+}
+
+
+nav ul{
+    margin-top: 0px;        
+    margin-bottom: 0px;
+    width: 1072px;          
+    height: 40px;           
+    border: #000000 4px solid; 
+    padding: 0px;  
+}
+
+nav ul li a{
+display: block;
+padding-left: 20px;
+padding-right: 20px;
+line-height: 40px;
+border-right: #000000 4px solid;
+text-decoration: none;
+font-size: 20px;
+color: black;
+}
+
+
+h1 {
+text-align: center;
+font-size: 145px;
+background-color: 	aliceblue;
+font-family: Karate;
+color: maroon;
+}
+
+
+h2 {
+text-align: center;
+}
+
+
+h3 {
+
+font-size: 30;
+text-align: center;
+color: black;
+background-color: powderblue;
+font-family: Arial;
+  
+}
+
+
+h4 {
+text-align: center;
+}
+
+h5 {
+
+font-size: 35px;
+text-align: center;
+
+}
+
+
+
+</style>
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
